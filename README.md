@@ -4,8 +4,8 @@ SakuraCycle merupakan project backend REST API untuk mendukung pengelolaan Bank 
 
 ## 📌 Ringkasan Proyek
 
-- **Project Name:** SakuraCycle
-- **Group:** EcoSakura
+- **Nama Proyek:** SakuraCycle
+- **Nama Kelompok:** EcoSakura
 - **Program:** Celerates Mini Project
 - **Project Type:** Backend REST API
 - **Database:** PostgreSQL
