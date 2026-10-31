@@ -225,7 +225,7 @@ Pengujian REST API dilakukan menggunakan Postman untuk memastikan setiap endpoin
 
 ![POST Setoran](docs/screenshots/POST-Membuat%20Transaksi%20Setoran.png)
 
-## 📍 Project Information
+## 📍 Proyek Informasi
 
 **Nama Proyek:** SakuraCycle  
 **Nama Kelompok:** EcoSakura  
